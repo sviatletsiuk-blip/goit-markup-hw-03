@@ -265,9 +265,8 @@ width: calc((100% - 72px) / 4);
 
 .team-image {
     padding-top: 32px;
-        padding-bottom: 0px;
-
-        height: 260px;
+    padding-bottom: 0px;
+    
 }
 
 .team-subtitle {
