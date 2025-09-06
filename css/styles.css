@@ -231,7 +231,7 @@ width: calc((100% - 72px) / 3);
     padding-bottom: 120px;
 }
 
-.team .container{
+.team-container{
     padding: 32px 0;
 }
 
