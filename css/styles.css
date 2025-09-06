@@ -207,7 +207,7 @@ a {
 width: calc((100% - 72px) / 3);
 }
 .features-subtitle {
-    padding-bottom: 8px;
+    margin-bottom: 8px;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
