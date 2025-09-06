@@ -232,7 +232,7 @@ width: calc((100% - 72px) / 3);
 }
 
 .team-title {
-    padding-bottom: 72px;
+    margin-bottom: 72px;
     padding-bottom: 72px;
     font-weight: 700;
     font-size: 36px;
