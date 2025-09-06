@@ -21,6 +21,7 @@ img {
 }
 
 .container {
+    padding: 32px 0;
     max-width: 1158px;
     padding-left: 15px;
     padding-right: 15px;
@@ -185,8 +186,6 @@ a {
 }
 
 .features .container {
-    padding-top: 32px;
-    padding-bottom: 32px;
 }
 
 .visually-hidden {
@@ -237,8 +236,7 @@ width: calc((100% - 72px) / 4);
 }
 
 .team-container{
-    padding-top: 32px;
-        padding-bottom: 32px;
+
 }
 
 .team-title {
