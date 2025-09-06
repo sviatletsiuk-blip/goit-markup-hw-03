@@ -258,15 +258,15 @@ width: calc((100% - 72px) / 4);
 .team-item {
     border-radius: 0px 0px 4px 4px;
     background-color: #fff;
-    padding-top: 0;
-    padding-bottom: 32px;
+    padding-top: 32px;
+    padding-bottom: 0px;
     width: calc((100% - 72px) / 4);
 }
 
 .team-image {
-    padding-top: 32px;
-    padding-bottom: 0px;
-    
+    padding-bottom: 32px;
+
+        height: 260px;
 }
 
 .team-subtitle {
