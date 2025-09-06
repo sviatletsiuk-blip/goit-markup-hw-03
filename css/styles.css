@@ -234,8 +234,9 @@ width: calc((100% - 72px) / 4);
     padding-bottom: 120px;
 }
 
- .team-container{
-
+.container .team-container{
+    padding-top: 32px;
+    padding-bottom: 0px;
 }
 
 .team-title {
@@ -258,8 +259,8 @@ width: calc((100% - 72px) / 4);
 .team-item {
     border-radius: 0px 0px 4px 4px;
     background-color: #fff;
-    padding-top: 32px;
-    padding-bottom: 0px;
+    padding-top: 0;
+    padding-bottom: 32px;
     width: calc((100% - 72px) / 4);
 }
 
