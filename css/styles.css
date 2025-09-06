@@ -235,8 +235,7 @@ width: calc((100% - 72px) / 4);
 }
 
 .team-container{
-    padding-top: 32px;
-    padding-bottom: 32px;
+
 }
 
 .team-title {
@@ -271,6 +270,8 @@ width: calc((100% - 72px) / 4);
 }
 
 .team-subtitle {
+        padding-top: 32px;
+            padding-bottom: 32px;
     margin-bottom: 8px;
     font-weight: 500;
     font-size: 20px;
